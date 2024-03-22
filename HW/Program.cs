@@ -10,6 +10,8 @@ namespace HW
     {
         static void Main(string[] args)
         {
+
+            Console.ReadLine("第二次修改");
         }
     }
 }
